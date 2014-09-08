@@ -1,4 +1,4 @@
 myDrop
 ======
 
-iOS app
+This is an iOS app
